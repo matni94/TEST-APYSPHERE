@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    apache_log_parser (1.1.0)
+    awesome_print (1.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  apache_log_parser (~> 1.1)
+  awesome_print
+
+BUNDLED WITH
+   1.16.1

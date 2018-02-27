@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'apache_log_parser', '~> 1.1'
+gem 'awesome_print'
